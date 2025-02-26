@@ -44,6 +44,7 @@ flutter pub get
 ---
 
 ## 📂 Project Structure
+```graphql
 📦 cat-app
  ┣ 📂 lib
  ┃ ┣ 📂 model         # Data models
@@ -52,7 +53,7 @@ flutter pub get
  ┃ ┣ 📂 widgets       # Reusable UI components
  ┃ ┣ 📜 main.dart     # App entry point
  ┗ 📜 README.md       # Project documentation
- 
+ ```
 ---
 
 ###🛠 How to Build APK
