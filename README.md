@@ -39,8 +39,11 @@ flutter run
 - Provider
 - CachedNetworkImage
 - HTTP for API calls
-- Install all dependencies with:
-- flutter pub get---
+### Install all dependencies with:
+```sh
+flutter pub get
+```
+---
 
 ## 📂 Project Structure
 ```graphql
