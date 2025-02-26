@@ -40,9 +40,7 @@ Provider
 CachedNetworkImage
 HTTP for API calls
 Install all dependencies with:
-flutter pub get
-
----
+flutter pub get---
 
 ## 📂 Project Structure
 ```graphql
@@ -70,6 +68,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ## 🤝 Contributing
 💡 If you want to improve this project, feel free to fork and create a pull request!
+
 ---
 ## 📬 Contact
 📧 Email: zedoyetefe@gmail.com
