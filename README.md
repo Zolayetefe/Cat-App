@@ -24,8 +24,9 @@ cd cat-app
 ---
 
 ## 2️⃣ Install Dependencies
-
+```sh
 flutter pub get
+```
 ---
 ## 3️⃣ Run the App
 ```sh
@@ -33,7 +34,7 @@ flutter run
 ```
 ---
 
-##📦 Dependencies
+## 📦 Dependencies
 Flutter (Latest Stable Version)
 Provider
 CachedNetworkImage
