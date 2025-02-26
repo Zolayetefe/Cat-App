@@ -35,12 +35,12 @@ flutter run
 ---
 
 ## 📦 Dependencies
-Flutter (Latest Stable Version)␣␣ 
-Provider␣␣ 
-CachedNetworkImage␣␣ 
-HTTP for API calls␣␣ 
-Install all dependencies with:␣␣ 
-flutter pub get---
+- Flutter (Latest Stable Version)
+- Provider
+- CachedNetworkImage
+- HTTP for API calls
+- Install all dependencies with:
+- flutter pub get---
 
 ## 📂 Project Structure
 ```graphql
