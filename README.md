@@ -35,11 +35,11 @@ flutter run
 ---
 
 ## 📦 Dependencies
-Flutter (Latest Stable Version)
-Provider
-CachedNetworkImage
-HTTP for API calls
-Install all dependencies with:
+Flutter (Latest Stable Version)␣␣ 
+Provider␣␣ 
+CachedNetworkImage␣␣ 
+HTTP for API calls␣␣ 
+Install all dependencies with:␣␣ 
 flutter pub get---
 
 ## 📂 Project Structure
@@ -71,7 +71,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ---
 ## 📬 Contact
-📧 Email: zedoyetefe@gmail.com
+📧 Email: zedoyetefe@gmail.com␣␣ 
 🐱 GitHub: github.com/Zolayetefe
 
 ---
